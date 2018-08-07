@@ -3,20 +3,27 @@
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="ctrl back_quote" />
   </action>
+  <action id="ChangesView.Diff" />
   <action id="CloseActiveTab">
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
   <action id="CloseEditor">
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
+  <action id="CompareTwoFiles" />
+  <action id="Console.TableResult.CloneRow" />
   <action id="Console.TableResult.SetNull" />
+  <action id="DatabaseView.CopyAction" />
+  <action id="Diff.ShowDiff" />
   <action id="EditorAddOrRemoveCaret">
     <mouse-shortcut keystroke="control button1" />
   </action>
+  <action id="EditorDuplicate" />
   <action id="EditorSelectLine">
     <keyboard-shortcut first-keystroke="ctrl l" />
   </action>
   <action id="EditorSelectWord" />
+  <action id="FileChooser.GotoDesktop" />
   <action id="FindInPath" />
   <action id="Generate">
     <keyboard-shortcut first-keystroke="shift ctrl i" />
@@ -41,13 +48,20 @@
     <keyboard-shortcut first-keystroke="shift ctrl t" />
   </action>
   <action id="ReplaceInPath" />
+  <action id="RunDashboard.CopyConfiguration" />
   <action id="SearchEverywhere">
     <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
+  <action id="SelectNextOccurrence">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="SendEOF" />
   <action id="ShowNavBar">
     <keyboard-shortcut first-keystroke="alt up" />
   </action>
   <action id="Tool_External Tools_php cs fixer">
     <keyboard-shortcut first-keystroke="shift ctrl f" />
   </action>
+  <action id="XDebugger.CopyWatch" />
+  <action id="openAssertEqualsDiff" />
 </keymap>
