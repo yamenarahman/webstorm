@@ -15,9 +15,6 @@
   <action id="Console.TableResult.SetNull" />
   <action id="DatabaseView.CopyAction" />
   <action id="Diff.ShowDiff" />
-  <action id="EditorAddOrRemoveCaret">
-    <mouse-shortcut keystroke="control button1" />
-  </action>
   <action id="EditorDuplicate" />
   <action id="EditorSelectLine">
     <keyboard-shortcut first-keystroke="ctrl l" />
