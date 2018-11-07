@@ -26,6 +26,7 @@
   <action id="Console.TableResult.DeleteRows" />
   <action id="Console.TableResult.SetNull" />
   <action id="DatabaseView.CopyAction" />
+  <action id="DatabaseView.SqlGenerator" />
   <action id="Diff.ShowDiff" />
   <action id="Editor Redo">
     <keyboard-shortcut first-keystroke="ctrl y" />
@@ -79,6 +80,9 @@
   </action>
   <action id="Tool_External Tools_php cs fixer">
     <keyboard-shortcut first-keystroke="shift ctrl f" />
+  </action>
+  <action id="Vcs.Show.Local.Changes">
+    <keyboard-shortcut first-keystroke="ctrl alt g" />
   </action>
   <action id="XDebugger.CopyWatch" />
   <action id="openAssertEqualsDiff" />
