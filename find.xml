@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'ums'" />
-    <option name="defaultScopeName" value="Project 'ums'" />
-    <option name="SEARCH_SCOPE" value="Project 'ums'" />
+    <option name="customScope" value="File '.../local/app/Http/Controllers/QuizController.php [ultimate-ums]'" />
+    <option name="defaultScopeName" value="File '.../local/app/Http/Controllers/QuizController.php [ultimate-ums]'" />
+    <option name="SEARCH_SCOPE" value="File '.../local/app/Http/Controllers/QuizController.php [ultimate-ums]'" />
   </component>
 </application>
