@@ -1,0 +1,28 @@
+<code_scheme name="Default" version="173">
+  <HTMLCodeStyleSettings>
+    <option name="HTML_DO_NOT_INDENT_CHILDREN_OF" value="html" />
+    <option name="HTML_KEEP_WHITESPACES_INSIDE" value="pre,textarea" />
+  </HTMLCodeStyleSettings>
+  <PHPCodeStyleSettings>
+    <option name="PHPDOC_BLANK_LINE_BEFORE_TAGS" value="true" />
+    <option name="PHPDOC_KEEP_BLANK_LINES" value="false" />
+    <option name="LOWER_CASE_BOOLEAN_CONST" value="true" />
+    <option name="LOWER_CASE_NULL_CONST" value="true" />
+    <option name="BLANK_LINES_BEFORE_RETURN_STATEMENT" value="1" />
+    <option name="FORCE_SHORT_DECLARATION_ARRAY_STYLE" value="true" />
+  </PHPCodeStyleSettings>
+  <codeStyleSettings language="Blade">
+    <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="HTML">
+    <option name="RIGHT_MARGIN" value="180" />
+    <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
+    <option name="SOFT_MARGINS" value="180" />
+  </codeStyleSettings>
+  <codeStyleSettings language="PHP">
+    <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
+    <option name="LINE_COMMENT_ADD_SPACE" value="true" />
+  </codeStyleSettings>
+</code_scheme>
