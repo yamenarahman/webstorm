@@ -18,6 +18,7 @@
     <keyboard-shortcut first-keystroke="ctrl back_quote" />
   </action>
   <action id="ChangesView.Diff" />
+  <action id="CheckinProject" />
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="ctrl slash" />
   </action>
@@ -98,6 +99,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl d" />
   </action>
   <action id="Vcs.QuickListPopupAction" />
+  <action id="Vcs.UpdateProject" />
   <action id="XDebugger.CopyWatch" />
   <action id="openAssertEqualsDiff" />
 </keymap>
