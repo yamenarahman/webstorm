@@ -98,9 +98,7 @@
     <keyboard-shortcut first-keystroke="ctrl meta l" />
   </action>
   <action id="Refresh" />
-  <action id="RenameElement">
-    <keyboard-shortcut first-keystroke="enter" />
-  </action>
+  <action id="RenameElement" />
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="shift meta t" />
   </action>
