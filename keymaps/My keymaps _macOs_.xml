@@ -92,7 +92,9 @@
     <keyboard-shortcut first-keystroke="ctrl meta l" />
   </action>
   <action id="Refresh" />
-  <action id="RenameElement" />
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift circumflex" />
+  </action>
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="shift meta t" />
   </action>
